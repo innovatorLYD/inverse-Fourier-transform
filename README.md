@@ -5,9 +5,13 @@
 ##  一些有用的链接
 克苏鲁跑团的简介 https://www.zhihu.com/question/39497334
 https://www.bilibili.com/read/cv743182
+
 建立调查员卡片的流程 https://unlimitmaze.blogspot.com/2017/02/7_24.html
+
 6分钟学会车卡 https://www.bilibili.com/video/av20101292
+
 在线车卡（并没有用excel车卡方便） https://quanbrew.github.io/chareets/
+
 一些很nice的跑团实况 https://www.bilibili.com/read/cv355756
 
 
